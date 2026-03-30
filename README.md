@@ -57,4 +57,4 @@ The interactive Power BI dashboard is available here:
 ## Portfolio
 Full project write-up including methodology, findings and 
 business recommendations is available here:
-[View Portfolio]([YOUR WIX PORTFOLIO LINK HERE](https://raheemwaliyi79-my-site-1.editor.wix.com/html/editor/web/renderer/edit/1c25bc10-352b-4b07-9f31-ab7368371092?metaSiteId=11ac0497-cbd6-4a16-8a8d-b77fe798c3fd))
+[View Portfolio](https://raheemwaliyi79-my-site-1.editor.wix.com/html/editor/web/renderer/edit/1c25bc10-352b-4b07-9f31-ab7368371092?metaSiteId=11ac0497-cbd6-4a16-8a8d-b77fe798c3fd)
